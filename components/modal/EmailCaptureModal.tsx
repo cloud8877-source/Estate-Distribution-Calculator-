@@ -1,6 +1,6 @@
 
 import React, { useState } from 'react';
-import { Dialog } from './ui/Dialog';
+import { Dialog } from '../ui/Dialog';
 
 interface Props {
   isOpen: boolean;

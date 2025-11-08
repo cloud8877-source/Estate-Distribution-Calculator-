@@ -1,8 +1,8 @@
 
 import React from 'react';
 import { Handle, Position } from 'reactflow';
-import { formatCurrency } from '../utils/formatting';
-import { Issue } from '../types';
+import { formatCurrency } from '../../utils/formatting';
+import { Issue } from '../../types';
 
 export function EstateNode({ data }: { data: any }) {
   return (
