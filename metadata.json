@@ -1,0 +1,5 @@
+{
+  "name": "Estate Distribution Calculator",
+  "description": "An interactive web application for EstateWealthMY, a Malaysian estate planning service. This tool combines a calculator and visual family tree to show the difference between intestacy (no will) under Malaysia's Distribution Act 1958 versus proper estate planning.",
+  "requestFramePermissions": []
+}
